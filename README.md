@@ -10,3 +10,11 @@
     examples - Risk Assessment, Sales Forecasting
  - ### Prescriptive Analysis
    - The final type of data analysis is the most sought after, combining the insight from all previous analyses to determine the course of action to take in a current problem or decision. Artificial Intelligence (AI) is a perfect example of prescriptive analytics. AI systems consume a large amount of data to continuously learn and use this information to make informed decisions.
+# Advantages of Amazon AWS Databases
+- Highly Scalable: You can scale your database as your application grows without any downtime.
+- Fully Managed: Everything, from maintenance to hardware upgrades, is managed by AWS.
+- Enterprise Class: world-class infrastructure.
+- Distributed: Now that your application and database exist on separate machines, your application becomes highly fault-tolerant.
+- Since everything is managed by AWS, you don’t need a Database Maintenance team in your organization.you don’t need a Database Maintenance team in your organization.
+
+Summarizing, AWS Database Services are highly scalable, fully managed services provided by AWS for the Internet-scale applications on a pay-as-you-go model. They offer various databases like relational databases, non-relational databases, etc
