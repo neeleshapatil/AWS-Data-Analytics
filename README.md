@@ -25,7 +25,7 @@ AWS provides a wide range of fully managed, purpose-built and both relational an
 ### Relational Database: 
 In relational databases, the data is usually stored in a tabular format. Relational databases particularly use structured query language (SQL) to run queries to perform operations such as insertion, updating, deletion, and more. AWS provides following relational database services.
 - Amazon RDS
-  - RDS is used to set up, operate, and scale a relational database in the cloud. t’s compatible with six popular database engines – Amazon Aurora, MySQL, MariaDB, PostgreSQL, Oracle and Microsoft SQL Server
+  - RDS is used to set up, operate, and scale a relational database in the cloud. it’s compatible with six popular database engines – Amazon Aurora, MySQL, MariaDB, PostgreSQL, Oracle and Microsoft SQL Server
   
 - Amazon Redshift
    - Amazon Redshift is also a managed database service and a relational database. Because of its vast storage potential and differing functionality, Redshift is sometimes referred to as a data warehouse. Redshift is an OLAP database, standing for ‘online analytical processing’. This means it’s especially suited to processing analytical queries involving more complex calculations. running its own engine adapted from PostgreSQL.
