@@ -31,6 +31,10 @@ In relational databases, the data is usually stored in a tabular format. Relatio
    - Amazon Redshift is also a managed database service and a relational database. Because of its vast storage potential and differing functionality, Redshift is sometimes referred to as a data warehouse. Redshift is an OLAP database, standing for ‘online analytical processing’. This means it’s especially suited to processing analytical queries involving more complex calculations. running its own engine adapted from PostgreSQL.
 - Amazon Aurora
 
+Amazon Aurora is a MySQL and PostgreSQL-compatible relational database built for the cloud that combines the performance and availability of traditional enterprise databases with the simplicity and cost-effectiveness of open source databases.
+
+Amazon Aurora is up to five times faster than standard MySQL databases and three times faster than standard PostgreSQL databases. It provides the security, availability, and reliability of commercial databases at 1/10th the cost. Amazon Aurora is fully managed by Amazon Relational Database Service (RDS), which automates time-consuming administration tasks like hardware provisioning, database setup, patching, and backups
+
 ### Key–Value Database: (NoSQL)
 The key–value database is a type of NoSQL database where the method of having a value attached to a key is used to store data. Meaning that the data is composed of two elements, keys and values.
 
